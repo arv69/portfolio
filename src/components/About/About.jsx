@@ -97,13 +97,13 @@ useGSAP(()=>{
                     <h1>Personal-info</h1>
                     <ul>
                         <li>
-                            <span>Name</span> : KIRTI WANKHEDE
+                            <span>Name</span> : Kalpesh Mahajan
                         </li>
                         <li>
-                            <span>AGE</span> : 22
+                            <span>AGE</span> : 25
                         </li>
                         <li>
-                            <span>GENDER</span> : FEMALE
+                            <span>GENDER</span> : Male
                         </li>
                         <li>
                             <span>LANGUAGE KMOWN</span> : HINDI, ENGLISH

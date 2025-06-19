@@ -35,7 +35,7 @@ useGSAP(()=>{
       <div className="left-home">
         <div className="home-details">
           <div className="line1">I'M</div>
-          <div className="line2">KIRTI WANKHEDE</div>
+          <div className="line2">Kalpesh Mahajan</div>
           <div className="line3">SOFTWARE DEVELOPER</div>
             <button>HERE ME</button>
         </div>
